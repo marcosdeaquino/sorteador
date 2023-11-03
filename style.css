@@ -44,19 +44,21 @@
   }
 
   .input-min {
-    margin-right: 62px;
+    margin-right: 63px;
+    
+    
   }
 
 
 
   button {
     background: #AEC346;
-    box-shadow: 0px 18px 40px rgba(174, 195, 70, 0.35);
+    box-shadow:2px 18px 40px rgba(174, 195, 70, 0.35);
     border-radius: 10px;
     width: 342px;
-    height: 72px;
+    height: 74px;
     color: #FFFFFF;
-    font-weight: 700;
+    font-weight: 700px;
     font-size: 36px;
     margin-top: 80px;
     border: none;
